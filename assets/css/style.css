@@ -1,0 +1,386 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0%;
+}
+
+
+
+.container{
+
+    width: 100%;
+
+}
+.header {
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    z-index: 1;
+}
+.logo{
+margin-left: 70px;
+margin-top: 25px;
+}
+.main {
+    margin: 0% !important;
+    display: flex;
+    width: 100%;
+    background-color: rgb(211, 205, 205);
+    justify-content: center;
+    position: relative;
+}
+datingone{
+    border: 1px solid black;
+    width: 30%;
+    text-align: left;
+
+}
+.datingtwo {
+    margin-top: 200px;
+    width: 30%;
+    margin-right: 360px;
+}
+.boy {
+    margin-top: 150px;
+    position: absolute;
+    bottom: 0px;
+    right: 194px;
+}
+.para{
+    line-height: 40px;
+}
+.hfour{
+    margin-top: 30px;
+}
+.char{
+margin-bottom: 25px;
+}
+.ak{
+    margin-bottom: 15px;
+
+}
+.maintwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+width: 100%;
+
+}
+.box1{
+width: 25%;
+text-align: center;
+margin-top: 80px;
+}
+.box2{
+    width: 20%;
+
+}
+.box2 img{
+    border-radius: 50%;
+    width: 100%;
+    margin-top: 100px;
+    height: 60%;
+}
+.box3{
+    width: 25%;
+
+}
+.emoji2{
+    text-align: center;
+    margin-top: 200px;
+   
+}
+.pic1{
+    width: 15%;
+    margin: auto;
+margin-top: 50px;
+}
+.mainhead{
+line-height: 40px;
+}
+.shead{
+margin-top: 90px;
+line-height: 20px;
+}
+.pic2{
+    margin: auto;
+    width: 15%;
+}
+.mainthree{
+width: 100%;
+/* display: flex; */
+position: relative;
+
+}
+.three1{
+    margin-top: 100px;
+    margin-left: 140px;
+    background-color: orange;
+    border: 1px solid orange;
+    width: 50%;
+    height: 1050px;
+    /* position: relative; */
+    /* top: 34px; */
+    /* z-index: 60; */
+}
+.three2{
+    position: relative;
+    top: 45px;
+}
+.pic3{
+    /* width: 700px; */
+    position: absolute;
+    top: 30px;
+    left: -60px;
+}
+.dating-tips{
+    width: 750px;
+    position: absolute;
+    top: 683px;
+    right: 0px;
+    background-color: white;
+    padding: 50px 100px 60px 50px;
+}
+.islami{
+    border: 2px solid black;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+.dt-mainhead{
+    margin-bottom: 20px;
+
+}
+.dt-para{
+line-height: 30px;
+}
+/* .btn{
+    padding: 10px 25px;
+    margin-top:10px ;
+    background-color: orangered;
+    border: none;
+    color: white;
+} */
+.mainfour{
+    position: relative;
+    /* width: 100%; */
+    /* background-image: url(/assets/img/4th.jpg); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* margin-top: 100px; */
+}
+.fourback{
+    width: 100%;
+}
+.row{
+display: flex;
+justify-content: center;
+margin-top: -170px;
+
+}
+.col{
+    background-color: white;
+width: 20%;
+border: 1px solid black;
+/* height: 100px; */
+/* padding: 50px; */
+/* margin-left: 20px; */
+margin: 4px;
+}
+.pic2{
+    
+    width: 30%;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.imojihead{
+    margin-left: 25px;
+    margin-top: 20px;
+    color: orange;
+
+}
+.imojipara{
+    margin-left: 25px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+.orangeback{
+    background-color: orange;
+    width: 100%;
+    margin-top: -200px;
+    height: 300px;
+}
+.hfive{
+    text-align: center;
+    padding-top: 250px ;
+    color: white;
+}
+.mainfive{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.one1{
+width: 40%;
+padding: 70px;
+}
+.winepara{
+    margin-bottom: 50px;
+    line-height: 25px;
+}
+.wine{
+    color: orange;
+}
+.wineh3{
+    margin-bottom: 20px;
+}
+.btn2{
+    
+    padding: 10px 70px;
+    margin-top:10px ;
+    background-color: orangered;
+    border: none;
+    color: white;
+}
+/* .picture1 {
+    width: 50%;
+}
+.fourpic{
+    width: 100%;
+    display: flex;
+}
+.row2{
+    width: 50%;
+    display: flex;
+    height: 100%;
+}
+
+.picture5{
+    width:50%;
+} */
+.main111{
+    width: 100%;
+    display: flex;
+}
+.child1{
+    width: 50%;
+}
+.child2{
+    width: 50%;
+}
+.picture4{
+    width: 50%;
+    height: 350px;
+    border: 2px solid black;
+}
+.sample{
+    width: 100%;
+    display: flex;
+}
+.sample2{
+width: 100%;
+}
+.picture5 img{
+    width: 350px;
+}
+.eightmain{
+    /* width: 100%; */
+ /* height: 70vh;    */
+position: relative;
+}
+.eightpic{
+width: 100%;
+}
+.text{
+    width: 500px;
+    border: 1px solid orange;
+    background-color: orange;
+position: absolute;
+bottom: 5px;
+left: 50px;
+padding: 50px 70px;
+}
+.erules{
+    color: white;
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.erulesp{
+    color: white;
+    line-height: 30px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+.h5er{
+    color: white;
+    margin-bottom: 30px;
+}
+.buttonr{
+    outline:1px solid white;
+    padding: 10px 25px;
+    margin-top:10px ;
+    background-color: orange;
+    border: none;
+    width: 200px;
+    color: white;
+}
+.toptips{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.information{
+width: 30%;
+text-align: left;
+margin-left: 100px;
+}
+.pictext{
+width: 40%;
+}
+.biography{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.pytp{
+    line-height: 25px;
+    margin-bottom: 20px;
+
+}
+.pyt{
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: orange;
+}
+.vmh5{
+    margin-bottom: 30px;
+    text-decoration: underline;
+}
+.loveall{
+    padding: 100px;
+    font-size: 30px;
+}
+.footer{
+text-align: center;
+background-color: black;
+width: 100%;
+padding: 50px;
+}
+.footerp{
+    color: white;
+    width: 500px;
+    margin: auto;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+@media screen and (min-width:425px) and (max-width:768px) {
+    .boy {
+        margin-top: 150px;
+        position: absolute;
+        bottom: 0px;
+        right: -87px;
+    }
+}
