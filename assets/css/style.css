@@ -376,7 +376,113 @@ padding: 50px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
-@media screen and (min-width:425px) and (max-width:768px) {
+@media screen and (min-width:320px) and (max-width:425px) {
+    .main {
+        margin: 0% !important;
+        display: flex;
+        width: 100%;
+        background-color: rgb(211, 205, 205);
+        justify-content: center;
+        position: relative;
+        flex-direction: column;
+    }
+    
+.boy {
+    margin-top: 150px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+.pic3 {
+    width: 320px;
+    position: absolute;
+    top: 30px;
+    left: -60px;
+}
+.eightmain{
+    width: 100%;
+}
+.pictext img{
+    width: 100%;
+
+}
+}
+@media screen and (min-width:426px) and (max-width:768px) {
+    .boy {
+        margin-top: 150px;
+        position: absolute;
+        bottom: 0px;
+        right: -87px;
+    }
+    .text {
+        width: 320px;
+        border: 1px solid orange;
+        background-color: orange;
+        position: absolute;
+        bottom: 5px;
+        left: 50px;
+        padding: 0px 30px;
+    }
+    .footer {
+        text-align: center;
+        background-color: black;
+        width: 171%;
+        padding: 40px;
+    }
+    .footer {
+        text-align: center;
+        background-color: black;
+        width: 171%;
+        padding: 40px;
+    }
+    .imojipara {
+        font-size: 8px;
+        margin-left: 25px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+        line-height: 5px;
+    }
+    .imojihead {
+        font-size: 10px;
+        margin-left: 25px;
+        margin-top: 20px;
+        color: orange;
+    }
+    .col {
+        background-color: white;
+        width: 25%;
+        border: 1px solid black;
+        /* height: 100px; */
+        /* padding: 50px; */
+        /* margin-left: 20px; */
+        margin: 4px;
+    }
+    .maintwo {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+    }
+    
+    
+}
+@media screen and (min-width:769px) and (max-width:1024px) {
+    .boy {
+        margin-top: 150px;
+        position: absolute;
+        bottom: 0px;
+        right: -87px;
+    }
+}
+@media screen and (min-width:1025px) and (max-width:1200px) {
+    .boy {
+        margin-top: 150px;
+        position: absolute;
+        bottom: 0px;
+        right: -87px;
+    }
+}
+@media screen and (min-width:1201px) {
     .boy {
         margin-top: 150px;
         position: absolute;
